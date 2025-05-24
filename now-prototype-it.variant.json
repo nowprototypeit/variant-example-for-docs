@@ -5,7 +5,11 @@
     ],
     "starterFileDirectories": [
       "__INHERIT__",
-      "/my-really-helpful-starter-files"
+      "my-really-helpful-starter-files"
+    ],
+    "postCreateJSScripts": [
+      "__INHERIT__",
+      "bin/add-the-current-time.js"
     ]
   }
 }
