@@ -2,6 +2,10 @@
   "version-2024-03": {
     "inheritFrom": [
       "nowprototypeit"
+    ],
+    "starterFileDirectories": [
+      "__INHERIT__",
+      "/my-really-helpful-starter-files"
     ]
   }
 }
